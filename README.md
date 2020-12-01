@@ -14,5 +14,7 @@ kong plugins，时间戳认证
      "timesign4hmac",
    }`
 ## 3、使用
-   1）在hmac中增加用户：![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/131647_572d1c27_1875965.png "屏幕截图.png")
+   1）在hmac中增加用户：
+   ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/131647_572d1c27_1875965.png)
+   ![这里随便写文字](你刚复制的图片路径)
     
