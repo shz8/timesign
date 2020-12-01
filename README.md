@@ -21,5 +21,5 @@ kong plugins，时间戳认证
    3)使用route/service/Global时在header/url中添加appcode（hmac.username）和sign
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/132445_b2bcc621_1875965.png)
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/132711_684872d1_1875965.png)
-     ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/133554_9dc9a932_1875965.png)
-     ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/133521_35a7d814_1875965.png)
+     ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/134058_48d07911_1875965.png)
+     ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/134010_e63b42bb_1875965.png)
