@@ -22,4 +22,7 @@ kong plugins，时间戳认证
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/132445_b2bcc621_1875965.png)
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/132711_684872d1_1875965.png)
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/134058_48d07911_1875965.png)
+     使用header
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/134010_e63b42bb_1875965.png)
+     使用url参数
+     ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/134620_f7084b20_1875965.png)
