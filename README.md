@@ -26,3 +26,4 @@ kong plugins，时间戳认证
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/134010_e63b42bb_1875965.png)
      使用url参数
      ![输入图片说明](https://images.gitee.com/uploads/images/2020/1201/134620_f7084b20_1875965.png)
+     ![test](https://gitee.com/static/images/logo-black.svg?t=158106664)
